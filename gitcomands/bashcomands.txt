@@ -1,0 +1,17 @@
+ls (Listar todos los archivos del repositorio)
+
+pwd (Repositorio actual)
+
+cd {Nombre del repositorio} (Mover de repositorio)
+
+cd .. (Mover al repositorio anterior en la jerarquia)
+
+mkdir {Nombre del repositorio} (crear nuevo repositorio)
+
+code . (Abrir directorio en repositorio actual)
+
+rm {Nombre del archivo} (Eliminar archivo)
+
+mv {Nombre del archivo} {Nombre nuevo} (Cambio de nombre a un archivo)
+
+cat {Nombre del archivo} (muestra el contenido del archivo)

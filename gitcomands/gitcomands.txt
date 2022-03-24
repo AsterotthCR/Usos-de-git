@@ -1,0 +1,39 @@
+git init (Iniciar proyecto de git)
+
+git status (Da el estatus de tus archivos en git)
+
+git status -s (estatus corto)
+
+git add 
+    {Nombre del archivos}
+    {.Tipo de archivo "agrega todos los archivos con la extencion"}
+    {. Agrega todos los archivos}
+
+git commit -m {Nombre del archivo} "mensaje con sentido cuerente" 
+(Comete el archivo a git)
+
+git restore --staged {Nombre del archivo} 
+(saca el archivo del stage)
+
+git diff (ver los cambios de una forma mas visual)
+
+git mv {nombre del archivo} {nombre nuevo}
+(atajo para renombrar)
+
+Crear archivo .gitignore 
+(Importante para no agregar archivos inecesarios al proyecto)
+
+git log (informacion de cambios al proyecto de forma detallada)
+
+git log --oneline (Muestra los cambios en forma sencilla)
+
+git branch (Muestra rama actual de trabajo)
+
+git checkout -b {nombre de la rama a crear}
+(Crea una rama independiente para trabajar)
+
+git checkout {Nombre de la rama}
+(Cambio de rama)
+
+git merge {Nombre de la rama a unir}
+(Une las ramas importnate estar en la rama main/master)
